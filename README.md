@@ -1,7 +1,7 @@
 # Windows Subsystem for Linux setup
 
 Run the following from an administrative PowerShell prompt to install and configure Windows Subsystem for Linux.
-A reboot is required to enable Windows optional features, and then the script should be run again.
+A reboot is required to enable the Windows optional feature, and then the script should be run again.
 The first launch of WSL requires a new username and password to be configured.
 After this, close the first WSL window to continue with the rest of the script.
 ```
